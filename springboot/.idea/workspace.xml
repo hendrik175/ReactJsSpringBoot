@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="c1fdec78-aa5f-49dc-a22d-3763ae49021d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../reactapp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../reactapp/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/springboot/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/springboot/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/springboot/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/springboot/AppTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -100,8 +100,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/springboot/AppTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+            <state relative-caret-position="221">
+              <caret line="15" column="4" lean-forward="true" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -265,12 +265,12 @@
       <option name="presentableId" value="Default" />
       <updated>1569066985629</updated>
       <workItem from="1569066988274" duration="34449000" />
-      <workItem from="1569433313815" duration="33151000" />
+      <workItem from="1569433313815" duration="34706000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="67600000" />
+    <option name="totallyTimeSpent" value="69155000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -489,8 +489,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/springboot/AppTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+        <state relative-caret-position="221">
+          <caret line="15" column="4" lean-forward="true" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
         </state>
       </provider>
     </entry>
